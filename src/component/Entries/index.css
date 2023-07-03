@@ -1,0 +1,46 @@
+table,th,td{
+    border: 1px solid black;
+  border-collapse: collapse;  
+}
+
+.loaderCont{
+  display:flex;
+ justify-content:center;
+ align-items: center;
+ height:70vh;
+}
+.pageCont{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+ 
+}
+.page{
+  color:rgb(5, 74, 84);
+  font-weight: 500;
+  font-size: 15px;
+}
+span{
+  color:rgb(222, 18, 39);
+}
+.showCont{
+  display:flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.link{
+  text-decoration: none;
+  color:white;
+}
+.displayCont{
+  display:flex;
+  justify-content:space-around;
+  align-items: center;
+}
+.select{
+  background-color: rgb(80, 215, 248);
+  border-radius:5px;
+  border:0px solid white ;
+  outline:none;
+}

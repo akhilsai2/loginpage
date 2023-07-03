@@ -1,0 +1,50 @@
+.image{
+    width:50px;
+    background-color: transparent;
+}
+.nav-cont{
+    height:10vh;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 35px;
+    padding-right: 35px;
+    border-bottom: 0px solid #bfbfbf;
+}
+.logBtn{
+    background-color: #1d8dc9;
+    width:80px;
+    height:25px;
+    color:white;
+    font-size: 12px;
+    font-weight:500;
+    border:0px solid white;
+    border-radius: 5px;
+   
+    align-self: center;
+    
+}
+.home-cont{
+    height:100vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-image:url("https://stimg.cardekho.com/images/carexteriorimages/630x420/Mahindra/Thar/8076/1601635839903/front-left-side-47.jpg?imwidth=420&impolicy=resize");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    
+}
+.homehead{
+    color:White;
+    font-size: 35px;
+
+}
+.navi{
+    text-decoration: none;
+}
+.userlink{
+    color:rgb(62, 147, 205);
+    font-size:15px;
+    font-weight:500;
+    align-self: center;
+}
